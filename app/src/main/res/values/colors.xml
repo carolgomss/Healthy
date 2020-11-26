@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9ad3bc</color>
+    <color name="colorPrimaryDark">#9ad3bc</color>
+    <color name="colorAccent">#ec524b</color>
+    <color name="colorBackground">#9ad3bc</color>
+    <color name="colorAbaixo">#27aaf0</color>
+    <color name="colorNormal">#4CAF50</color>
+    <color name="colorSobrepeso">#f3d042</color>
+    <color name="colorObesidade">#F44336</color>
+</resources>
